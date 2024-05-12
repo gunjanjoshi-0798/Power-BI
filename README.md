@@ -1,10 +1,13 @@
-###BigScreen Insights: Movie Industry Analysis
-##Background
+# BigScreen Insights: Movie Industry Analysis
+
+## Background
+
 You are a data analyst at BigScreen Insights, a consulting firm specializing in the movie industry. Your firm has recently acquired two extensive datasets: 'Movie Production Details' and 'Movie Revenue and Ratings'. The first dataset captures the essence of movie production, detailing various aspects such as production companies, budgets, and genres. The second set tracks the commercial performance and audience reception of these movies, offering a glimpse into their financial success and popularity.
-##Objective
+## Objective
 Your mission is to use Power BI to transform these datasets into a cohesive narrative. This involves meticulous data cleaning, sophisticated data modeling, and adept use of DAX for advanced analytical insights. The culmination of your task is to build an interactive dashboard that vividly presents your findings, offering actionable insights into trends, financial viability, and audience preferences within the movie industry.
 
-Data Source
+## Data Source
+
 Movie Revenue and Ratings Dataset
 This dataset provides comprehensive information about the financial performance and public reception of various movies. Key columns in this dataset include:
 
@@ -17,7 +20,9 @@ IMDb Rating: The rating of the movie on IMDb.
 Rotten Tomatoes Rating (%): The percentage rating of the movie on Rotten Tomatoes.
 Number of Theaters: The total number of theaters in which the movie was shown.
 MPAA Rating: The Motion Picture Association of America rating for the movie.
-Movie Production Details Dataset
+
+## Movie Production Details Dataset
+
 This dataset focuses on the production aspects of various movies. It contains detailed information such as:
 
 Movie ID: A unique identifier for each movie.
