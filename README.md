@@ -1,4 +1,4 @@
-# BigScreen Insights: Movie Industry Analysis
+# Entertainment
 ![image](https://github.com/gunjanjoshi-0798/Power-BI/assets/155617045/c6a8fc90-04d7-4148-9c05-1c44616fa1de)
 
 ![image](https://github.com/gunjanjoshi-0798/Power-BI/assets/155617045/ec51a7de-e1f8-4d4f-8601-c93fdbaea582)
