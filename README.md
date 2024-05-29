@@ -1,6 +1,6 @@
 # Entertainment
 
-## Ojective
+## Objective
 
 Our main objective is to use Power BI to transform these datasets into a cohesive narrative. This involves meticulous data cleaning, sophisticated data modeling, and adept use of DAX for advanced analytical insights. The culmination of your task is to build an interactive dashboard that vividly presents your findings, offering actionable insights into trends, financial viability, and audience preferences within the movie industry.
 
